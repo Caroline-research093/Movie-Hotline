@@ -10,7 +10,7 @@ This is a movie information resource that asks users for a movie title then refi
 1. **Aquire the respoitory:**  You can either use Github download or use this script to get the required files:
 
          ```bash
-         git clone
+         git clone https://github.com/Caroline-research093/Movie-Hotline
 
 2. **Install required files:**
 
