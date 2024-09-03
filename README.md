@@ -30,11 +30,12 @@ This is a movie information resource that asks users for a movie title then refi
 4. **Creating .exe file:**
 
      Once you've made your .env file return to a terminal window in the path of the repository, in that window type:
+   
          pyinstaller --onefile MovieHotline.py
 
      This will take a moment so give it time. Once the build is complete the .exe file will be located in a dist folder in the directory that contained the repository.
 
-5. **Running the Program:**
+6. **Running the Program:**
 
      Run the MovieHotline.exe file, a command prompt window should appear.
      In this window will be prompted to enter a movie title, please spell correctly, though case doesn't matter.
