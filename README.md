@@ -47,8 +47,9 @@ This is a movie information resource that asks users for a movie title then refi
 
 **Global Variables**
 ---------------
-- **cpi_library**
-- **second_key**
+- **cpi_library** - Open variable to hold the cpi library 
+- **MY_KEY** - For TMDB API key, I used .env files for security
+- **second_key** - For Watchmode API key, I used .env files for security
 
 ---
 
