@@ -3,21 +3,22 @@
 <a href="../../project/MovieHotline.py#L0"><img align="right" style="float:right;" src="https://img.shields.io/badge/-source-cccccc?style=flat-square"></a>
 
 # <kbd>module</kbd> `MovieHotline.py`
-This is a movie information resource that asks users for a movie title then refines that input to accurate find information about that movie. The information displayed is choosen by the user through rudimentary menus.
+This is a movie information resource that asks users for a movie title then refines that input to accurately find information about that movie. The information displayed is choosen by the user through rudimentary menus.
 
 ## Installation Instructions
 
-1. **Aquire the respoitory:**  You can either use Github download or use this script to get the required files:
+1. **Aquire the respoitory:**  You can use either Github download or this script to get the required files:
 
          ```bash
          git clone https://github.com/Caroline-research093/Movie-Hotline
+            ```
 
-2. **Install required files:**
+3. **Install required files:**
 
      Use the following code in terminal, with the correct path, to install:
          pip install -r requirements.txt
 
-3. **Get API KEY and Load .env:**
+4. **Get API KEY and Load .env:**
 
      This program requires 2 api keys, both are free, provided you accept their various terms.
 
@@ -27,7 +28,7 @@ This is a movie information resource that asks users for a movie title then refi
 
      Once you've aquired your keys edit the .env.example file to contain them with the TMDB key first then watchmode second, then rename the file to remove .example
 
-4. **Creating .exe file:**
+5. **Creating .exe file:**
 
      Once you've made your .env file return to a terminal window in the path of the repository, in that window type:
    
