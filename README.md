@@ -9,9 +9,10 @@ This is a movie information resource that asks users for a movie title then refi
 
 1. **Aquire the respoitory:**  You can use either Github download or this script to get the required files:
 
-         
+         ```
+   
          git clone https://github.com/Caroline-research093/Movie-Hotline
-         
+         ```
 
 3. **Install required files:**
 
